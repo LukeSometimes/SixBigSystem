@@ -1,0 +1,7 @@
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\bin\Debug\SBS.Data.Common.dll
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\bin\Debug\SBS.Data.Common.pdb
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\bin\Debug\EntityFramework.dll
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\bin\Debug\EntityFramework.xml
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\obj\Debug\SBS.Data.Common.dll
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\obj\Debug\SBS.Data.Common.pdb
+E:\Work\六大系统\程序\SixBigSystem\SBS.Data.Common\bin\Debug\Omu.ValueInjecter.dll

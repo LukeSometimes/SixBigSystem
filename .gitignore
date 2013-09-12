@@ -1,0 +1,14 @@
+/SBS.Core.Data/bin
+/SBS.Core.Data/obj
+/SBS.Core.Model/bin
+/SBS.Core.Model/obj
+/SBS.Data.Common/bin
+/SBS.Presentation.Site/bin
+/SBS.Presentation.Site/obj
+/SBS.Site.Model/bin
+/SBS.Site.Model/obj
+/SBS.Site.Service/bin
+/SBS.Site.Service/obj
+/SBS.Tool/bin
+/SBS.Tool/obj
+/SBS.Presentation.Site/logs
