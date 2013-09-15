@@ -1,0 +1,9 @@
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\NLog.dll
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\NLog.xml
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\SixBigSystem.Service.ServiceBase.dll
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\SixBigSystem.Service.ServiceBase.pdb
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\SixBigSystem.Service.Log.dll
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\bin\Debug\SixBigSystem.Service.Log.pdb
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\obj\Debug\ServiceBase.csprojResolveAssemblyReference.cache
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\obj\Debug\SixBigSystem.Service.ServiceBase.dll
+E:\Work\六大系统\程序\SecurityMonitorService\ServiceBase\obj\Debug\SixBigSystem.Service.ServiceBase.pdb
